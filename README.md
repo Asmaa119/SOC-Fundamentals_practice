@@ -29,6 +29,14 @@ This repository contains my hands-on SOC analyst training projects from LetsDefe
 
 
 
+ Cases 5:
+ Privilege Escalation, Medium severity alert (SOC335) LetsDefend
+ Closed as True Positive after finding a suspecious svohost executed via PowerShell.
+ Folder documents a case study with screenshots, notes including Investigation, IOC, Timeline and mitigation steps.
+
+
+
+
  
 
  
