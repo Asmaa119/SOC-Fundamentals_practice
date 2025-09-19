@@ -30,9 +30,17 @@ This repository contains my hands-on SOC analyst training projects from LetsDefe
 
 
  Cases 5:
-This alert was investigated in LetsDefend (training SOC environment). All hostnames/IPs are part of the simulated lab environment no real data exposed. 
- Privilege Escalation, Medium ,severity alert (SOC335) LetsDefend
- Closed as True Positive after finding a suspecious svohost executed via PowerShell.
+ 
+ Platform: 1- Completed TryHackMe rooms 
+ Cyber kill chain(learned about the 7 stages of an attack), Unified Cyber kill chain(explored how multiple attack chains map together to cover persistence, privilege escalation, and defense evasion.)
+ 
+2- LetsDefend SOC Case
+ //////This alert was investigated in LetsDefend (training SOC environment). All hostnames/IPs are part of the simulated lab environment no real data exposed. 
+ 
+ Investigated a Privilege Escalation alert in LetsDefend’s monitoring section.
+ Queried EDR logs for suspicious process (svohost.exe).
+ Analyzed parent process, file path, command line, and hash values.
+ Learned how to determine if an alert is true positive vs false positive.
  Folder documents a case study with screenshots, notes including Investigation, IOC, Timeline and mitigation steps.
 
 
