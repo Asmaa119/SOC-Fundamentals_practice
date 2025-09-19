@@ -1,0 +1,5 @@
+Timeline:
+PowerShell.exe started on Victor
+svohost.exe executed from temp folder
+Alert triggered for CVE-2024-49138
+No suspicious outbound IPs seen in network tab

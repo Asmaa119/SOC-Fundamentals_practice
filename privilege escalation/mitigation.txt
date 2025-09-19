@@ -1,0 +1,6 @@
+Mitigation:
+1. Quarantine or delete svohost.exe
+2. Isolate host Victor if malicious confirmed
+3. Search for same hash in environment
+4. Patch CVE-2024-49138
+5. Reset passwords if privilege escalation successful

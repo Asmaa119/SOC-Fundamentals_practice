@@ -1,0 +1,15 @@
+Alert in LetsDefend.io 
+
+Case: Privilege Escalation Alert (SOC335) 
+
+Host: Victor (172.16.x.x)
+
+File: C:\temp\service_installer\svohost.exe 
+
+Hash: b432dcf4a0f0b601b1d79848467137a5e25cab5a0b7b1224be9d3b6540122db9  
+
+Parent: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe 
+
+User: EC2AMAZ-ILGVOIN\LetsDefend 
+
+Finding: Suspicious executable (svohost.exe) launched from temp folder via PowerShell. 

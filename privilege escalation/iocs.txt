@@ -1,0 +1,6 @@
+Indicators of Compromise:
+ File path: C:\temp\service_installer\svohost.exe
+ SHA256: b432dcf4a0f0b601b1d79848467137a5e25cab5a0b7b1224be9d3b6540122db9
+ Parent process: powershell.exe
+ Host IP: 172.16.x.x
+ Username: EC2AMAZ-ILGVOIN\LetsDefend
